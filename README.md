@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi! My name is Noah Valverde, I am currently studying Chemical Engineering at The University of Kansas!
-I'm working on learning Python for machine learning at the moment.
+
 I love listening to music and collecting vinyl, my favorite artist being Frank Zappa.
